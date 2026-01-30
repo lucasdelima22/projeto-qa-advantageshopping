@@ -1,7 +1,7 @@
-# language: pt
 # PROJETO DE TESTES - ADVANTAGE SHOPPING
 
 ```gherkin
+# language: pt
 
 Funcionalidade: Persistência de Sessão - Analisar se ao duplicar a aba no mesmo navegador a sessão de usuário se mantém.
   Cenário: Persistir login ao duplicar aba do navegador.
